@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S2FloatOrDouble\bin\Debug\S2FloatOrDouble.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S2FloatOrDouble\bin\Debug\S2FloatOrDouble.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S2FloatOrDouble\bin\Debug\S2FloatOrDouble.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S2FloatOrDouble\obj\Debug\S2FloatOrDouble.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S2FloatOrDouble\obj\Debug\S2FloatOrDouble.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S2FloatOrDouble\obj\Debug\S2FloatOrDouble.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S6StringsAndObjects\bin\Debug\S6StringsAndObjects.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S6StringsAndObjects\obj\Debug\S6StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S6StringsAndObjects\bin\Debug\S6StringsAndObjects.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S6StringsAndObjects\bin\Debug\S6StringsAndObjects.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S6StringsAndObjects\obj\Debug\S6StringsAndObjects.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S6StringsAndObjects\obj\Debug\S6StringsAndObjects.pdb

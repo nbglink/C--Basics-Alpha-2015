@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S7QuotesInStrings\bin\Debug\S7QuotesInStrings.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S7QuotesInStrings\bin\Debug\S7QuotesInStrings.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S7QuotesInStrings\bin\Debug\S7QuotesInStrings.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S7QuotesInStrings\obj\Debug\S7QuotesInStrings.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S7QuotesInStrings\obj\Debug\S7QuotesInStrings.pdb

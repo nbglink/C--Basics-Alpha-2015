@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S12NullValuesArithmetic\bin\Debug\S12NullValuesArithmetic.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S12NullValuesArithmetic\bin\Debug\S12NullValuesArithmetic.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S12NullValuesArithmetic\bin\Debug\S12NullValuesArithmetic.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S12NullValuesArithmetic\obj\Debug\S12NullValuesArithmetic.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S12NullValuesArithmetic\obj\Debug\S12NullValuesArithmetic.pdb

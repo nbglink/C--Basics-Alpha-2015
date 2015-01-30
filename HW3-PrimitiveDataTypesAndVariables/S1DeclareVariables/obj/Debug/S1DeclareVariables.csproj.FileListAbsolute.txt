@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S1DeclareVariables\bin\Debug\S1DeclareVariables.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S1DeclareVariables\bin\Debug\S1DeclareVariables.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S1DeclareVariables\bin\Debug\S1DeclareVariables.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S1DeclareVariables\obj\Debug\S1DeclareVariables.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S1DeclareVariables\obj\Debug\S1DeclareVariables.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S1DeclareVariables\obj\Debug\S1DeclareVariables.pdb

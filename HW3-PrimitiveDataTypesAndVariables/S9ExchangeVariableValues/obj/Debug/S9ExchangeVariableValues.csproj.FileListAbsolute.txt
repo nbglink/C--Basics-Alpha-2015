@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S9ExchangeVariableValues\bin\Debug\S9ExchangeVariableValues.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S9ExchangeVariableValues\bin\Debug\S9ExchangeVariableValues.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S9ExchangeVariableValues\bin\Debug\S9ExchangeVariableValues.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S9ExchangeVariableValues\obj\Debug\S9ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S9ExchangeVariableValues\obj\Debug\S9ExchangeVariableValues.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S9ExchangeVariableValues\obj\Debug\S9ExchangeVariableValues.pdb

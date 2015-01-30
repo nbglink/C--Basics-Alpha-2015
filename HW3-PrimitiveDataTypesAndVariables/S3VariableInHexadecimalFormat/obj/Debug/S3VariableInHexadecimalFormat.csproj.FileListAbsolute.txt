@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S3VariableInHexadecimalFormat\bin\Debug\S3VariableInHexadecimalFormat.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S3VariableInHexadecimalFormat\bin\Debug\S3VariableInHexadecimalFormat.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S3VariableInHexadecimalFormat\bin\Debug\S3VariableInHexadecimalFormat.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S3VariableInHexadecimalFormat\obj\Debug\S3VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S3VariableInHexadecimalFormat\obj\Debug\S3VariableInHexadecimalFormat.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S3VariableInHexadecimalFormat\obj\Debug\S3VariableInHexadecimalFormat.pdb

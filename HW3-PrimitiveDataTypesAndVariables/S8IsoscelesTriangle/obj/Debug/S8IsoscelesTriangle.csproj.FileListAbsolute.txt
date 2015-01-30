@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S8IsoscelesTriangle\bin\Debug\S8IsoscelesTriangle.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S8IsoscelesTriangle\bin\Debug\S8IsoscelesTriangle.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S8IsoscelesTriangle\bin\Debug\S8IsoscelesTriangle.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S8IsoscelesTriangle\obj\Debug\S8IsoscelesTriangle.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW3-PrimitiveDataTypesAndVariables\S8IsoscelesTriangle\obj\Debug\S8IsoscelesTriangle.pdb
