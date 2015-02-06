@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S14ModifyBitAtGivenPosition\bin\Debug\S14ModifyBitAtGivenPosition.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S14ModifyBitAtGivenPosition\obj\Debug\S14ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S14ModifyBitAtGivenPosition\bin\Debug\S14ModifyBitAtGivenPosition.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S14ModifyBitAtGivenPosition\bin\Debug\S14ModifyBitAtGivenPosition.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S14ModifyBitAtGivenPosition\obj\Debug\S14ModifyBitAtGivenPosition.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S14ModifyBitAtGivenPosition\obj\Debug\S14ModifyBitAtGivenPosition.pdb

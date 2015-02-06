@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S5ThirdDigitIs7\bin\Debug\S5ThirdDigitIs7.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S5ThirdDigitIs7\bin\Debug\S5ThirdDigitIs7.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S5ThirdDigitIs7\bin\Debug\S5ThirdDigitIs7.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S5ThirdDigitIs7\obj\Debug\S5ThirdDigitIs7.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S5ThirdDigitIs7\obj\Debug\S5ThirdDigitIs7.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S5ThirdDigitIs7\obj\Debug\S5ThirdDigitIs7.pdb

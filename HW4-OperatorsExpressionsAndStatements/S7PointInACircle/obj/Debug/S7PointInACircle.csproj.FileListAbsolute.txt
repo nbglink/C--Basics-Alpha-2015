@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S7PointInACircle\bin\Debug\S7PointInACircle.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S7PointInACircle\bin\Debug\S7PointInACircle.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S7PointInACircle\bin\Debug\S7PointInACircle.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S7PointInACircle\obj\Debug\S7PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S7PointInACircle\obj\Debug\S7PointInACircle.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S7PointInACircle\obj\Debug\S7PointInACircle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S8PrimeNumberCheck\bin\Debug\S8PrimeNumberCheck.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S8PrimeNumberCheck\bin\Debug\S8PrimeNumberCheck.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S8PrimeNumberCheck\bin\Debug\S8PrimeNumberCheck.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S8PrimeNumberCheck\obj\Debug\S8PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S8PrimeNumberCheck\obj\Debug\S8PrimeNumberCheck.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S8PrimeNumberCheck\obj\Debug\S8PrimeNumberCheck.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S10PointInsideCircleOutsideRectangle\bin\Debug\S10PointInsideCircleOutsideRectangle.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S10PointInsideCircleOutsideRectangle\bin\Debug\S10PointInsideCircleOutsideRectangle.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S10PointInsideCircleOutsideRectangle\bin\Debug\S10PointInsideCircleOutsideRectangle.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S10PointInsideCircleOutsideRectangle\obj\Debug\S10PointInsideCircleOutsideRectangle.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S10PointInsideCircleOutsideRectangle\obj\Debug\S10PointInsideCircleOutsideRectangle.pdb

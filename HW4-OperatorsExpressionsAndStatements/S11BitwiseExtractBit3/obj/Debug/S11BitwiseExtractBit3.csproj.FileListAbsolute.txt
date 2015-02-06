@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S11BitwiseExtractBit3\bin\Debug\S11BitwiseExtractBit3.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S11BitwiseExtractBit3\bin\Debug\S11BitwiseExtractBit3.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S11BitwiseExtractBit3\bin\Debug\S11BitwiseExtractBit3.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S11BitwiseExtractBit3\obj\Debug\S11BitwiseExtractBit3.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-OperatorsExpressionsAndStatements\S11BitwiseExtractBit3\obj\Debug\S11BitwiseExtractBit3.pdb
