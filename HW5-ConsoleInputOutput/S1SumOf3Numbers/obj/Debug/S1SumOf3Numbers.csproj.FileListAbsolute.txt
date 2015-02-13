@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S1SumOf3Numbers\bin\Debug\S1SumOf3Numbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S1SumOf3Numbers\bin\Debug\S1SumOf3Numbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S1SumOf3Numbers\bin\Debug\S1SumOf3Numbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S1SumOf3Numbers\obj\Debug\S1SumOf3Numbers.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S1SumOf3Numbers\obj\Debug\S1SumOf3Numbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S1SumOf3Numbers\obj\Debug\S1SumOf3Numbers.pdb

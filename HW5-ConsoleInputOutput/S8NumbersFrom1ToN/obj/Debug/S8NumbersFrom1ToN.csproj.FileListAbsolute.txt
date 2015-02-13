@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S8NumbersFrom1ToN\bin\Debug\S8NumbersFrom1ToN.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S8NumbersFrom1ToN\bin\Debug\S8NumbersFrom1ToN.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S8NumbersFrom1ToN\bin\Debug\S8NumbersFrom1ToN.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S8NumbersFrom1ToN\obj\Debug\S8NumbersFrom1ToN.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S8NumbersFrom1ToN\obj\Debug\S8NumbersFrom1ToN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S9SumOfNNumbers\bin\Debug\S9SumOfNNumbers.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S9SumOfNNumbers\bin\Debug\S9SumOfNNumbers.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S9SumOfNNumbers\bin\Debug\S9SumOfNNumbers.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S9SumOfNNumbers\obj\Debug\S9SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S9SumOfNNumbers\obj\Debug\S9SumOfNNumbers.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S9SumOfNNumbers\obj\Debug\S9SumOfNNumbers.pdb

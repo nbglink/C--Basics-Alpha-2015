@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S6QuadraticEquation\bin\Debug\S6QuadraticEquation.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S6QuadraticEquation\bin\Debug\S6QuadraticEquation.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S6QuadraticEquation\bin\Debug\S6QuadraticEquation.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S6QuadraticEquation\obj\Debug\S6QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S6QuadraticEquation\obj\Debug\S6QuadraticEquation.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S6QuadraticEquation\obj\Debug\S6QuadraticEquation.pdb

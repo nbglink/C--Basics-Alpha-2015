@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S5FormattingNumbers\bin\Debug\S5FormattingNumbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S5FormattingNumbers\bin\Debug\S5FormattingNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S5FormattingNumbers\bin\Debug\S5FormattingNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S5FormattingNumbers\obj\Debug\S5FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S5FormattingNumbers\obj\Debug\S5FormattingNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S5FormattingNumbers\obj\Debug\S5FormattingNumbers.pdb

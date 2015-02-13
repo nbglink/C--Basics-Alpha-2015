@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S3CirclePerimeterAndArea\bin\Debug\S3CirclePerimeterAndArea.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S3CirclePerimeterAndArea\bin\Debug\S3CirclePerimeterAndArea.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S3CirclePerimeterAndArea\bin\Debug\S3CirclePerimeterAndArea.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S3CirclePerimeterAndArea\obj\Debug\S3CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S3CirclePerimeterAndArea\obj\Debug\S3CirclePerimeterAndArea.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S3CirclePerimeterAndArea\obj\Debug\S3CirclePerimeterAndArea.pdb

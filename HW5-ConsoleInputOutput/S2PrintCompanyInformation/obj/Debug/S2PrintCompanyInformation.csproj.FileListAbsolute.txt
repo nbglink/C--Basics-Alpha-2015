@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S2PrintCompanyInformation\bin\Debug\S2PrintCompanyInformation.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S2PrintCompanyInformation\bin\Debug\S2PrintCompanyInformation.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S2PrintCompanyInformation\bin\Debug\S2PrintCompanyInformation.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S2PrintCompanyInformation\obj\Debug\S2PrintCompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S2PrintCompanyInformation\obj\Debug\S2PrintCompanyInformation.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S2PrintCompanyInformation\obj\Debug\S2PrintCompanyInformation.pdb

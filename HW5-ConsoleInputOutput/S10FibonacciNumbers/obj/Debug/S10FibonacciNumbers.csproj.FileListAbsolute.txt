@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S10FibonacciNumbers\bin\Debug\S10FibonacciNumbers.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S10FibonacciNumbers\bin\Debug\S10FibonacciNumbers.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S10FibonacciNumbers\bin\Debug\S10FibonacciNumbers.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S10FibonacciNumbers\obj\Debug\S10FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S10FibonacciNumbers\obj\Debug\S10FibonacciNumbers.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-ConsoleInputOutput\S10FibonacciNumbers\obj\Debug\S10FibonacciNumbers.pdb

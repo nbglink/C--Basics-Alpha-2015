@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S4NumberComparer\bin\Debug\S4NumberComparer.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S4NumberComparer\bin\Debug\S4NumberComparer.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S4NumberComparer\bin\Debug\S4NumberComparer.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S4NumberComparer\obj\Debug\S4NumberComparer.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-ConsoleInputOutput\S4NumberComparer\obj\Debug\S4NumberComparer.pdb
