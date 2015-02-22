@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S7Sort3NumbersWithNestedIfs\bin\Debug\S7Sort3NumbersWithNestedIfs.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S7Sort3NumbersWithNestedIfs\bin\Debug\S7Sort3NumbersWithNestedIfs.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S7Sort3NumbersWithNestedIfs\bin\Debug\S7Sort3NumbersWithNestedIfs.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S7Sort3NumbersWithNestedIfs\obj\Debug\S7Sort3NumbersWithNestedIfs.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S7Sort3NumbersWithNestedIfs\obj\Debug\S7Sort3NumbersWithNestedIfs.pdb

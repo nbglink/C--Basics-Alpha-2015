@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S9PlayWithIntDoubleAndString\bin\Debug\S9PlayWithIntDoubleAndString.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S9PlayWithIntDoubleAndString\bin\Debug\S9PlayWithIntDoubleAndString.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S9PlayWithIntDoubleAndString\bin\Debug\S9PlayWithIntDoubleAndString.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S9PlayWithIntDoubleAndString\obj\Debug\S9PlayWithIntDoubleAndString.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S9PlayWithIntDoubleAndString\obj\Debug\S9PlayWithIntDoubleAndString.pdb

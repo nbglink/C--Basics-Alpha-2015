@@ -1,0 +1,9 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S11NumberAsWords\bin\Debug\S11NumberAsWords.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S11NumberAsWords\obj\Debug\S11NumberAsWords.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S11NumberAsWords\bin\Debug\S11NumberAsWords.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S11NumberAsWords\bin\Debug\S11NumberAsWords.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S11NumberAsWords\obj\Debug\S11NumberAsWords.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S11NumberAsWords\obj\Debug\S11NumberAsWords.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW6-ConditionalStatements\S11NumberAsWords\bin\Debug\S11NumberAsWords.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW6-ConditionalStatements\S11NumberAsWords\obj\Debug\S11NumberAsWords.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW6-ConditionalStatements\S11NumberAsWords\obj\Debug\S11NumberAsWords.pdb

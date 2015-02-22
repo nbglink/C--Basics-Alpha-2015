@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S4MultiplicationSign\bin\Debug\S4MultiplicationSign.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S4MultiplicationSign\bin\Debug\S4MultiplicationSign.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S4MultiplicationSign\bin\Debug\S4MultiplicationSign.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S4MultiplicationSign\obj\Debug\S4MultiplicationSign.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S4MultiplicationSign\obj\Debug\S4MultiplicationSign.pdb

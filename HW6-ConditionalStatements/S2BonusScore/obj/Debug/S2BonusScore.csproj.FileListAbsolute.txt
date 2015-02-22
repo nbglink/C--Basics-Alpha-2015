@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S2BonusScore\bin\Debug\S2BonusScore.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S2BonusScore\obj\Debug\S2BonusScore.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S2BonusScore\bin\Debug\S2BonusScore.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S2BonusScore\bin\Debug\S2BonusScore.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S2BonusScore\obj\Debug\S2BonusScore.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S2BonusScore\obj\Debug\S2BonusScore.pdb

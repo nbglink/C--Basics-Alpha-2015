@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S8DigitAsWord\bin\Debug\S8DigitAsWord.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S8DigitAsWord\bin\Debug\S8DigitAsWord.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S8DigitAsWord\bin\Debug\S8DigitAsWord.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S8DigitAsWord\obj\Debug\S8DigitAsWord.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S8DigitAsWord\obj\Debug\S8DigitAsWord.pdb

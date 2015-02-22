@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S3CheckForAPlayCard\bin\Debug\S3CheckForAPlayCard.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S3CheckForAPlayCard\bin\Debug\S3CheckForAPlayCard.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S3CheckForAPlayCard\bin\Debug\S3CheckForAPlayCard.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S3CheckForAPlayCard\obj\Debug\S3CheckForAPlayCard.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S3CheckForAPlayCard\obj\Debug\S3CheckForAPlayCard.pdb

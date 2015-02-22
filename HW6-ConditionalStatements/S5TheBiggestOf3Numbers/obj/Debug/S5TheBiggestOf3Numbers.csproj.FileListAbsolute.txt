@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S5TheBiggestOf3Numbers\bin\Debug\S5TheBiggestOf3Numbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S5TheBiggestOf3Numbers\bin\Debug\S5TheBiggestOf3Numbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S5TheBiggestOf3Numbers\bin\Debug\S5TheBiggestOf3Numbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S5TheBiggestOf3Numbers\obj\Debug\S5TheBiggestOf3Numbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW6-Conditional Statements\S5TheBiggestOf3Numbers\obj\Debug\S5TheBiggestOf3Numbers.pdb
