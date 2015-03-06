@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S7FactorialsDivisionAdvanced\bin\Debug\S7FactorialsDivisionAdvanced.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S7FactorialsDivisionAdvanced\bin\Debug\S7FactorialsDivisionAdvanced.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S7FactorialsDivisionAdvanced\bin\Debug\S7FactorialsDivisionAdvanced.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S7FactorialsDivisionAdvanced\obj\Debug\S7FactorialsDivisionAdvanced.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S7FactorialsDivisionAdvanced\obj\Debug\S7FactorialsDivisionAdvanced.pdb

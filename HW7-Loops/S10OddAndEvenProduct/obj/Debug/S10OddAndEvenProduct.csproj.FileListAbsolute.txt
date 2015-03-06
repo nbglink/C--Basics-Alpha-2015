@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S10OddAndEvenProduct\bin\Debug\S10OddAndEvenProduct.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S10OddAndEvenProduct\bin\Debug\S10OddAndEvenProduct.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S10OddAndEvenProduct\bin\Debug\S10OddAndEvenProduct.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S10OddAndEvenProduct\obj\Debug\S10OddAndEvenProduct.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S10OddAndEvenProduct\obj\Debug\S10OddAndEvenProduct.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S10OddAndEvenProduct\obj\Debug\S10OddAndEvenProduct.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S17CalculateGCDvar\bin\Debug\S17CalculateGCDvar.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S17CalculateGCDvar\bin\Debug\S17CalculateGCDvar.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S17CalculateGCDvar\bin\Debug\S17CalculateGCDvar.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S17CalculateGCDvar\obj\Debug\S17CalculateGCDvar.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S17CalculateGCDvar\obj\Debug\S17CalculateGCDvar.pdb

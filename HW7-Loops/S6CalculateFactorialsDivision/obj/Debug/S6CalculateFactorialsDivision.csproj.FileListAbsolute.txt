@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S6CalculateFactorialsDivision\bin\Debug\S6CalculateFactorialsDivision.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S6CalculateFactorialsDivision\bin\Debug\S6CalculateFactorialsDivision.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S6CalculateFactorialsDivision\bin\Debug\S6CalculateFactorialsDivision.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S6CalculateFactorialsDivision\obj\Debug\S6CalculateFactorialsDivision.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S6CalculateFactorialsDivision\obj\Debug\S6CalculateFactorialsDivision.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S6CalculateFactorialsDivision\obj\Debug\S6CalculateFactorialsDivision.pdb

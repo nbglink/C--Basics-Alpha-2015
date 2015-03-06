@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S14DecimalToBinaryNumber\bin\Debug\S14DecimalToBinaryNumber.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S14DecimalToBinaryNumber\obj\Debug\S14DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S14DecimalToBinaryNumber\bin\Debug\S14DecimalToBinaryNumber.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S14DecimalToBinaryNumber\bin\Debug\S14DecimalToBinaryNumber.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S14DecimalToBinaryNumber\obj\Debug\S14DecimalToBinaryNumber.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S14DecimalToBinaryNumber\obj\Debug\S14DecimalToBinaryNumber.pdb

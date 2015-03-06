@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S3MinMaxSumAndAverageOfNNumbers\bin\Debug\S3MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S3MinMaxSumAndAverageOfNNumbers\bin\Debug\S3MinMaxSumAndAverageOfNNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S3MinMaxSumAndAverageOfNNumbers\bin\Debug\S3MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S3MinMaxSumAndAverageOfNNumbers\obj\Debug\S3MinMaxSumAndAverageOfNNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S3MinMaxSumAndAverageOfNNumbers\obj\Debug\S3MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S3MinMaxSumAndAverageOfNNumbers\obj\Debug\S3MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S4PrintADeckOf52Cards\bin\Debug\S4PrintADeckOf52Cards.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S4PrintADeckOf52Cards\bin\Debug\S4PrintADeckOf52Cards.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S4PrintADeckOf52Cards\bin\Debug\S4PrintADeckOf52Cards.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S4PrintADeckOf52Cards\obj\Debug\S4PrintADeckOf52Cards.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S4PrintADeckOf52Cards\obj\Debug\S4PrintADeckOf52Cards.pdb

@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S2NumbersNotDivisibleBy3And7\bin\Debug\S2NumbersNotDivisibleBy3And7.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S2NumbersNotDivisibleBy3And7\bin\Debug\S2NumbersNotDivisibleBy3And7.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S2NumbersNotDivisibleBy3And7\bin\Debug\S2NumbersNotDivisibleBy3And7.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S2NumbersNotDivisibleBy3And7\obj\Debug\S2NumbersNotDivisibleBy3And7.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S2NumbersNotDivisibleBy3And7\obj\Debug\S2NumbersNotDivisibleBy3And7.pdb

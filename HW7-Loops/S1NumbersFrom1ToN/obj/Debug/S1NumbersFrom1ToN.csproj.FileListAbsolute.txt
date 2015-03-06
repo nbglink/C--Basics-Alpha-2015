@@ -1,0 +1,9 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S1NumbersFrom1ToN\bin\Debug\S1NumbersFrom1ToN.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S1NumbersFrom1ToN\obj\Debug\S1NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S1NumbersFrom1ToN\bin\Debug\S1NumbersFrom1ToN.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S1NumbersFrom1ToN\bin\Debug\S1NumbersFrom1ToN.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S1NumbersFrom1ToN\obj\Debug\S1NumbersFrom1ToN.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S1NumbersFrom1ToN\obj\Debug\S1NumbersFrom1ToN.pdb
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S1NumbersFrom1ToN\bin\Debug\S1NumbersFrom1ToN.exe.config
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S1NumbersFrom1ToN\obj\Debug\S1NumbersFrom1ToN.exe
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S1NumbersFrom1ToN\obj\Debug\S1NumbersFrom1ToN.pdb

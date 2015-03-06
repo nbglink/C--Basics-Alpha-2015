@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S9MatrixOfNumbers\bin\Debug\S9MatrixOfNumbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S9MatrixOfNumbers\bin\Debug\S9MatrixOfNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S9MatrixOfNumbers\bin\Debug\S9MatrixOfNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S9MatrixOfNumbers\obj\Debug\S9MatrixOfNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S9MatrixOfNumbers\obj\Debug\S9MatrixOfNumbers.pdb

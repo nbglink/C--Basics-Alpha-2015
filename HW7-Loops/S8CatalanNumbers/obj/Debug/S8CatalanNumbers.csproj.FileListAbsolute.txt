@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S8CatalanNumbers\bin\Debug\S8CatalanNumbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S8CatalanNumbers\bin\Debug\S8CatalanNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S8CatalanNumbers\bin\Debug\S8CatalanNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S8CatalanNumbers\obj\Debug\S8CatalanNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW7-Loops\S8CatalanNumbers\obj\Debug\S8CatalanNumbers.pdb

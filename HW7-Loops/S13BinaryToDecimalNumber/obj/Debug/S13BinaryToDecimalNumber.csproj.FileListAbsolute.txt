@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.pdb

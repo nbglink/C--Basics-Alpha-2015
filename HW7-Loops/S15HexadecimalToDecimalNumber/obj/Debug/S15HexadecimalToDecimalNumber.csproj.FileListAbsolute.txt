@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S15HexadecimalToDecimalNumber\bin\Debug\S15HexadecimalToDecimalNumber.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S15HexadecimalToDecimalNumber\bin\Debug\S15HexadecimalToDecimalNumber.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S15HexadecimalToDecimalNumber\bin\Debug\S15HexadecimalToDecimalNumber.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S15HexadecimalToDecimalNumber\obj\Debug\S15HexadecimalToDecimalNumber.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S15HexadecimalToDecimalNumber\obj\Debug\S15HexadecimalToDecimalNumber.pdb
