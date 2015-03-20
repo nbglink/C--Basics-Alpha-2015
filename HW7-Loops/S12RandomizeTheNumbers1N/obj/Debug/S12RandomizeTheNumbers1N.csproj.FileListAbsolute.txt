@@ -3,3 +3,8 @@ C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S12Rand
 C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S12RandomizeTheNumbers1N\bin\Debug\S12RandomizeTheNumbers1N.pdb
 C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S12RandomizeTheNumbers1N\obj\Debug\S12RandomizeTheNumbers1N.exe
 C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S12RandomizeTheNumbers1N\obj\Debug\S12RandomizeTheNumbers1N.pdb
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S12RandomizeTheNumbers1N\bin\Debug\S12RandomizeTheNumbers1N.exe.config
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S12RandomizeTheNumbers1N\obj\Debug\S12RandomizeTheNumbers1N.exe
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S12RandomizeTheNumbers1N\obj\Debug\S12RandomizeTheNumbers1N.pdb
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S12RandomizeTheNumbers1N\bin\Debug\S12RandomizeTheNumbers1N.exe
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S12RandomizeTheNumbers1N\bin\Debug\S12RandomizeTheNumbers1N.pdb

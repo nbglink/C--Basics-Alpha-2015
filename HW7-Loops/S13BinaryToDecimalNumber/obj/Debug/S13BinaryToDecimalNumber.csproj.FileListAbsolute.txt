@@ -3,3 +3,9 @@ C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13Bina
 C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.pdb
 C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.exe
 C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.pdb
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.exe.config
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.exe
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.pdb
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.exe
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S13BinaryToDecimalNumber\bin\Debug\S13BinaryToDecimalNumber.pdb
+D:\Source control\nbglink\C--Basics-Alpha-2015\HW7-Loops\S13BinaryToDecimalNumber\obj\Debug\S13BinaryToDecimalNumber.csprojResolveAssemblyReference.cache

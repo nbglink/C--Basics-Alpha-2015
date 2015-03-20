@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text.RegularExpressions;
 
 namespace S13BinaryToDecimalNumber
 {
@@ -10,7 +9,6 @@ namespace S13BinaryToDecimalNumber
             string inputStr = Console.ReadLine();
 
             Console.WriteLine(Convert.ToInt64(inputStr, 2));
-
         }
     }
 }
