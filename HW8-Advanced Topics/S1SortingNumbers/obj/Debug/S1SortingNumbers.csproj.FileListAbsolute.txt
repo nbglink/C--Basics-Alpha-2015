@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S1SortingNumbers\bin\Debug\S1SortingNumbers.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW8-Advanced Topics\S1SortingNumbers\obj\Debug\S1SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW8-Advanced Topics\S1SortingNumbers\bin\Debug\S1SortingNumbers.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW8-Advanced Topics\S1SortingNumbers\bin\Debug\S1SortingNumbers.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW8-Advanced Topics\S1SortingNumbers\obj\Debug\S1SortingNumbers.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW8-Advanced Topics\S1SortingNumbers\obj\Debug\S1SortingNumbers.pdb

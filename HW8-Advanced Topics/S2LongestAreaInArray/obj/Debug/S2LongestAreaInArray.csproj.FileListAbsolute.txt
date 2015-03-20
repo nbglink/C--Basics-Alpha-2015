@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S2LongestAreaInArray\bin\Debug\S2LongestAreaInArray.exe.config
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S2LongestAreaInArray\bin\Debug\S2LongestAreaInArray.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S2LongestAreaInArray\bin\Debug\S2LongestAreaInArray.pdb
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S2LongestAreaInArray\obj\Debug\S2LongestAreaInArray.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S2LongestAreaInArray\obj\Debug\S2LongestAreaInArray.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW8-Advanced Topics\S2LongestAreaInArray\obj\Debug\S2LongestAreaInArray.pdb
