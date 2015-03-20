@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S5PointClass\bin\Debug\S5PointClass.exe.config
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S5PointClass\obj\Debug\S5PointClass.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S5PointClass\bin\Debug\S5PointClass.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S5PointClass\bin\Debug\S5PointClass.pdb
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S5PointClass\obj\Debug\S5PointClass.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S5PointClass\obj\Debug\S5PointClass.pdb

@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S1FibonacciNumbers\bin\Debug\S1FibonacciNumbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S1FibonacciNumbers\obj\Debug\S1FibonacciNumbers.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S1FibonacciNumbers\bin\Debug\S1FibonacciNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S1FibonacciNumbers\bin\Debug\S1FibonacciNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S1FibonacciNumbers\obj\Debug\S1FibonacciNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S1FibonacciNumbers\obj\Debug\S1FibonacciNumbers.pdb

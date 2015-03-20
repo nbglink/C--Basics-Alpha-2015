@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S3PrimesInGivenRange\bin\Debug\S3PrimesInGivenRange.exe.config
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S3PrimesInGivenRange\obj\Debug\S3PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S3PrimesInGivenRange\bin\Debug\S3PrimesInGivenRange.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S3PrimesInGivenRange\bin\Debug\S3PrimesInGivenRange.pdb
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S3PrimesInGivenRange\obj\Debug\S3PrimesInGivenRange.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S3PrimesInGivenRange\obj\Debug\S3PrimesInGivenRange.pdb

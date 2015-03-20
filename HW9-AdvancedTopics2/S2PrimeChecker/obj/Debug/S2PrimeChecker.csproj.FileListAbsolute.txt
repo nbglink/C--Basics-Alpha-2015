@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S2PrimeChecker\bin\Debug\S2PrimeChecker.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S2PrimeChecker\bin\Debug\S2PrimeChecker.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S2PrimeChecker\bin\Debug\S2PrimeChecker.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S2PrimeChecker\obj\Debug\S2PrimeChecker.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S2PrimeChecker\obj\Debug\S2PrimeChecker.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S2PrimeChecker\obj\Debug\S2PrimeChecker.csprojResolveAssemblyReference.cache

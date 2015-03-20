@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S4DifferenceBetweenDates\bin\Debug\S4DifferenceBetweenDates.exe.config
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S4DifferenceBetweenDates\bin\Debug\S4DifferenceBetweenDates.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S4DifferenceBetweenDates\bin\Debug\S4DifferenceBetweenDates.pdb
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S4DifferenceBetweenDates\obj\Debug\S4DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S4DifferenceBetweenDates\obj\Debug\S4DifferenceBetweenDates.exe
+C:\Users\Hristo Nestorov\documents\visual studio 2013\Projects\HW9-AdvancedTopics2\S4DifferenceBetweenDates\obj\Debug\S4DifferenceBetweenDates.pdb
