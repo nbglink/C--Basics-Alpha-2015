@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S4HelloCSharp\bin\Debug\S4HelloCSharp.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S4HelloCSharp\bin\Debug\S4HelloCSharp.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S4HelloCSharp\bin\Debug\S4HelloCSharp.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S4HelloCSharp\obj\Debug\S4HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S4HelloCSharp\obj\Debug\S4HelloCSharp.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S4HelloCSharp\obj\Debug\S4HelloCSharp.pdb

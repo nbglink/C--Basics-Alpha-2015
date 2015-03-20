@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7FirstAndLastName\bin\Debug\S7FirstAndLastName.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7FirstAndLastName\bin\Debug\S7FirstAndLastName.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7FirstAndLastName\bin\Debug\S7FirstAndLastName.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7FirstAndLastName\obj\Debug\S7FirstAndLastName.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7FirstAndLastName\obj\Debug\S7FirstAndLastName.pdb

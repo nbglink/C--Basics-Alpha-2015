@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S10ReformatCode\bin\Debug\S10ReformatCode.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S10ReformatCode\bin\Debug\S10ReformatCode.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S10ReformatCode\bin\Debug\S10ReformatCode.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S10ReformatCode\obj\Debug\S10ReformatCode.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S10ReformatCode\obj\Debug\S10ReformatCode.pdb

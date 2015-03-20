@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S9PrintSequence\bin\Debug\S9PrintSequence.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S9PrintSequence\bin\Debug\S9PrintSequence.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S9PrintSequence\bin\Debug\S9PrintSequence.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S9PrintSequence\obj\Debug\S9PrintSequence.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S9PrintSequence\obj\Debug\S9PrintSequence.pdb

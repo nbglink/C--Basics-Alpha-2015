@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S5PrintMyName\bin\Debug\S5PrintMyName.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S5PrintMyName\bin\Debug\S5PrintMyName.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S5PrintMyName\bin\Debug\S5PrintMyName.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S5PrintMyName\obj\Debug\S5PrintMyName.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S5PrintMyName\obj\Debug\S5PrintMyName.pdb

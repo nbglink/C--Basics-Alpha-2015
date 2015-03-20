@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S15AgeAfter10Years\bin\Debug\S15AgeAfter10Years.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S15AgeAfter10Years\bin\Debug\S15AgeAfter10Years.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S15AgeAfter10Years\bin\Debug\S15AgeAfter10Years.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S15AgeAfter10Years\obj\Debug\S15AgeAfter10Years.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S15AgeAfter10Years\obj\Debug\S15AgeAfter10Years.pdb

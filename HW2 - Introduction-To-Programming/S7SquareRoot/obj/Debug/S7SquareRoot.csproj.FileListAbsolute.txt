@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7SquareRoot\bin\Debug\S7SquareRoot.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7SquareRoot\bin\Debug\S7SquareRoot.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7SquareRoot\bin\Debug\S7SquareRoot.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7SquareRoot\obj\Debug\S7SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7SquareRoot\obj\Debug\S7SquareRoot.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2 - Introduction-To-Programming\S7SquareRoot\obj\Debug\S7SquareRoot.pdb
